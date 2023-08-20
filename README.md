@@ -304,3 +304,5 @@ Stay tuned!
 - [Awesome zero knowledge twitter list](https://twitter.com/gluk64/lists/awesome-zkp)
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm)
 - [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
+
+## [Seb's Notes](https://sebastianliu.notion.site/Seb-s-Notes-d0f6bbc3662b4a64b9684f0bb9ef651c?pvs=4)
