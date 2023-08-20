@@ -306,3 +306,4 @@ Stay tuned!
 - [ZKProof, an academic and industry initiative for standardizing Zero Knowledge Proofs](https://zkproof.org/)
 
 ## [Seb's Notes](https://sebastianliu.notion.site/Seb-s-Notes-d0f6bbc3662b4a64b9684f0bb9ef651c?pvs=4)
+- [Zero Knowledge Canon by a16z crypto](https://a16zcrypto.com/posts/article/zero-knowledge-canon/)
