@@ -76,6 +76,7 @@ More complete curated list of implementations and scientific resources:
 
 - [The 9th BIU Winter School on Cryptography: Zero Knowledge](https://cyber.biu.ac.il/event/the-9th-biu-winter-school-on-cryptography/)
 - [UIUC: ECE498AC/CS498AM: Applied Cryptography, Fall 2019](http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2019/)
+- [Zero Knowledge Proof, MOOC Spring 2023](https://zk-learning.org/)
 
 ## Use cases
 
@@ -154,6 +155,7 @@ Get started:
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
 - [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK)
+- [The MoonMath Manual to zk-SNARKs (A free learning resource for beginners to experts)](https://leastauthority.com/community-matters/moonmath-manual/)
 
 Why and How zk-SNARK Works:
 
@@ -210,6 +212,7 @@ Protocol descriptions:
 - [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark)
 - [circom and snarkjs tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
+  - [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark)
 - [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
 
 ### Scaling the prover
